@@ -31,10 +31,6 @@ cd Bondi-template
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Your contributions can help make the Bondi Template even better.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - The Bondi Template is based on the [Bootstrap](https://getbootstrap.com/) framework.
