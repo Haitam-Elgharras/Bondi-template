@@ -38,7 +38,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or questions, please reach out to Haitam Elgharras at elgharras.haitam@gmail.com
+For any inquiries or questions, please reach me out to at elgharras.haitam@gmail.com
 
 Enjoy using the Bondi Template for your projects!
 
