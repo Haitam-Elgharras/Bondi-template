@@ -1,0 +1,18 @@
+/* 0 - for classes that eliminate the margin or padding by setting it to 0
+1 (16px*0.25) - (by default) for classes that set the margin or padding to $spacer * .25 
+2 - (by default) for classes that set the margin or padding to $spacer * .5
+3 (16px*1) - (by default) for classes that set the margin or padding to $spacer
+4 - (by default) for classes that set the margin or padding to $spacer * 1.5
+5 (16px*3)- (by default) for classes that set the margin or padding to $spacer * 3 */
+
+.navbar ul li:hover {
+  color: #33d1cc !important;
+}
+
+/* 
+mt : margin-top 
+me:margin-right 
+d-lg-block : in the display in the large vw is block
+rounded-pill : round just the corners
+p-lg-3 ; from large media start padding : 16px;
+ */
